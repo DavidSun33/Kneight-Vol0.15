@@ -6,7 +6,7 @@ import pygame
 pygame.init()
 
 win = pygame.display.set_mode((2475,2000))
-pygame.display.set_caption("Kneight's Life Vol. 0.1")
+pygame.display.set_caption("Kneight's Life Vol. 0.15")
 
 x = 0
 y = 0
